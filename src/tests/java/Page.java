@@ -1,5 +1,8 @@
 import org.openqa.selenium.WebDriver;
 
+/**
+ * @author Adam Gataev (r0717663)
+ */
 public abstract class Page {
 
     WebDriver driver;

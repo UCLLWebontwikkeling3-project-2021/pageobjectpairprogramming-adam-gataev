@@ -6,6 +6,9 @@ import org.openqa.selenium.support.PageFactory;
 
 import java.sql.Timestamp;
 
+/**
+ * @author Adam Gataev (r0717663)
+ */
 public class AddContactPage extends Page {
 
     @FindBy(id="firstName")

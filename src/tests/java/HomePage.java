@@ -2,6 +2,9 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 
+/**
+ * @author Adam Gataev (r0717663)
+ */
 public class HomePage extends Page {
     @FindBy(id="userId")
     private WebElement userIdField;

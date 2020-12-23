@@ -9,6 +9,9 @@ import org.openqa.selenium.support.PageFactory;
 import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertTrue;
 
+/**
+ * @author Adam Gataev (r0717663)
+ */
 public class AddContactTest {
 
     private WebDriver driver;

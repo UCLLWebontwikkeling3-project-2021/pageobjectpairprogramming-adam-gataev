@@ -4,6 +4,9 @@ import org.openqa.selenium.WebElement;
 
 import java.util.ArrayList;
 
+/**
+ * @author Adam Gataev (r0717663)
+ */
 public class ContactOverviewPage extends Page {
 
     public ContactOverviewPage(WebDriver driver) {
